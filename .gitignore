@@ -5,3 +5,6 @@ notebooks/Exp_4/models/exp_4.pt
 notebooks/Exp_4/runs/
 notebooks/Webcam_Frame_Extraction/video.mp4
 notebooks/Webcam_Frame_Extraction/ultralyticsplus/yolov8s.pt
+notebooks/data_collection/cache/
+notebooks/data_collection/Saarbrucken/
+notebooks/data_collection/Saarbrucken_Polygon/
