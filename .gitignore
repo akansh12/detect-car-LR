@@ -8,3 +8,5 @@ notebooks/Webcam_Frame_Extraction/ultralyticsplus/yolov8s.pt
 notebooks/data_collection/cache/
 notebooks/data_collection/Saarbrucken/
 notebooks/data_collection/Saarbrucken_Polygon/
+notebooks/Exp_5_embeddings/
+notebooks/Exp_6/models/
